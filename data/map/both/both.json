@@ -1,0 +1,33 @@
+{
+  "map":{
+    "name":"both",
+    "size":9,
+    "area":[1,1,0,0,1,0,1,1,1],
+    "rooms":[
+      {
+        "description":"this is AirPort ",
+        "roles":[4]
+      },
+      {
+        "description":"this is Road1 ",
+        "roles":[2,2]
+      },
+      {
+        "description":"this is Road2 ",
+        "roles":[2,2,2]
+      },   
+      {
+        "description":"this is Pool ",
+        "roles":[1,1,1]
+      },
+      {
+        "description":"this is Road3 ",
+        "roles":[]
+      },
+      {
+        "description":"this is Gate ",
+        "roles":[3,3]
+      }
+    ]
+  }
+}
